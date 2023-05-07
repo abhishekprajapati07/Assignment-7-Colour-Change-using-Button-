@@ -1,0 +1,15 @@
+.container{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+h2{
+    margin: 15px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 20px;
+}
